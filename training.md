@@ -84,6 +84,8 @@ This section is divided into sort filters, sort of. See each section and find ou
  - https://www.youtube.com/watch?v=N8KXxfF4dtg - Jurgen Appelo - Keynote: Managing for Happiness
  - https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610 - about theory of constraints. Beware, The Goal is written (very much like a good story|using NLP), so you won't even feel that you are learning, but you will be smarter after you finish it.
 
+## Lean Project Managers
+- https://uxplanet.org/why-smaller-websites-shouldnt-bother-with-a-b-testing-5f28b8b1a14d - Why smaller websites shouldn’t bother with A/B testing
 
 # bonus material
 
